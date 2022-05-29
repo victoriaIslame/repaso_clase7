@@ -1,0 +1,28 @@
+h1,p {text-align: center; font-family:monospace;
+     background-color:cornflowerblue;
+}
+body { background-image: url(https://img.freepik.com/vector-gratis/joyas-abstractas-textura-brillo-diamantes-fondo-abstracto-poligono-triangulos-3d-ilustracion-vectorial_41814-594.jpg ) ;
+
+}
+.formulario {display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(44, 173, 190);
+    border-radius: 25px;
+   margin: 10px;
+   padding: 5px;}
+
+textarea {width: 30rem;}
+
+
+.info { display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(41, 132, 194);
+    border-radius: 25px;
+    margin: 10px;
+    padding: 5px;}
+    .card-body { background-color: cornflowerblue;
+                  text-align: center;}
